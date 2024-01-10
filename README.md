@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @stevensereg
+- 👋 Hi, I’m @stevensereg this is my public repository to just tell you to ask me about my private repository.
