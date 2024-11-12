@@ -22,7 +22,7 @@ const latesttopskills = {
 ### <img width="30" bottom="-5" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmaXh0ZGowN3V5MDZ2OXpsYnh5dGFvOGt0cmVnOWYydXFwcHI4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rrh06GopYdQPFva7AF/giphy.gif" /> Want to know me even more...?
 <a href="https://www.stevensereg.com/" target="_blank">https://www.stevensereg.com/</a>&nbsp;&nbsp;
 
-### <img width="40" bottom="-5" src="https://raw.githubusercontent.com/user-attachments/assets/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
+### <img width="40" bottom="-5" src="https://stevensereg.com/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
 
 ![GitHub Stats](https://www.stevensereg.com/githubdata.svg)
 
