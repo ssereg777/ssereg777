@@ -24,6 +24,6 @@ const latesttopskills = {
 
 ### <img width="40" bottom="-5" src="https://raw.githubusercontent.com/user-attachments/assets/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
 
-![GitHub Stats](https://www.stevensereg.com/githubdata.html)
+![GitHub Stats](https://www.stevensereg.com/githubdata.svg)
 
 ![GitHub Streak](https://www.stevensereg.com/githubstats2.html)
