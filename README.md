@@ -26,4 +26,4 @@ const latesttopskills = {
 
 ![GitHub Stats](https://www.stevensereg.com/githubdata.svg)
 
-![GitHub Streak](https://www.stevensereg.com/githubstats2.html)
+![GitHub Streak](https://www.stevensereg.com/githubstats2.svg)
