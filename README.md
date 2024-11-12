@@ -10,6 +10,7 @@ const latesttopskills = {
   specialty: ["ERP Development", "AI Development", "Web Development", "Full-stack Development", "Android Development"],
   interests: ["Family", "Any Development", "Sports of any kinds"],
   AI_development: [RAG, AI_Agent, LangChain, Pytorch],
+  in_browser_development : [WebLLM, IndexedDB, Service Workers, LocalStorage, SessionStorage],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
   data_processing: [Apache.Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
