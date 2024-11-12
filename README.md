@@ -21,6 +21,7 @@ https://www.stevensereg.com/&nbsp;&nbsp;
 
 ### <img width=40 bottom=-5 src="https://github.com/user-attachments/assets/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
 
-<iframe src="https://www.stevensereg.com/githubdata.html" width="100%" height="400" frameborder="0" title="GitHub Stats"></iframe>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
-<iframe src="https://www.stevensereg.com/githubstats2.html" width="100%" height="400" frameborder="0" title="GitHub Streak"></iframe>
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=default)
+
