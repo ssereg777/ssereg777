@@ -7,7 +7,7 @@
 const latesttopskills = {
   project_mgmt: "Waterfall" | "Agile",
   code: [JavaScript, TypeScript, Python, Java, C],
-  specialty: ["ERP Development", "AI Development", "Web Development", "Full-stack Development", "iOS Development"],
+  specialty: ["ERP Development", "AI Development", "Web Development", "Full-stack Development", "Android Development"],
   interests: ["Family", "Any Development", "Sports of any kinds"],
   AI_development: [RAG, AI_Agent, LangChain, Pytorch],
   tools: [React, Node, Docker, Kubernetes],
