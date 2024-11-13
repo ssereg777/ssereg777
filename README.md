@@ -1,5 +1,5 @@
 <h2> Hi, I'm Steven Sereg! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /></h2>
-<p><em>An Any-stack engineer/architect/developer. For security reasons, my files are private to protect the intellectual property they contain. </p>
+<p><em>An Any-stack engineer/architect/developer. For security reasons, my files are private to protect the intellectual property they contain. Reach out and let's talk about which sources your intereted in. </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> A little more about me...
 
